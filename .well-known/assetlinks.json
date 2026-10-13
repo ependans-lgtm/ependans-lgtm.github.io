@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.ependans_lgtm.noxlibri",
+      "sha256_cert_fingerprints": [
+        "87:E5:DB:6B:3E:51:F7:D8:6F:46:90:46:6A:BF:CA:68:7E:5D:CF:64:51:26:70:FA:6B:24:56:02:50:20:1B:04"
+      ]
+    }
+  }
+]
